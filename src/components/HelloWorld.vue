@@ -2,9 +2,9 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      Jacks is the best and if you want to see more of their work<br>
+      check out 
+      <a href="https://j4cks.com" target="_blank" rel="noopener">j4cks.com</a>.
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
