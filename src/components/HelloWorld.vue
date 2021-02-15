@@ -2,14 +2,15 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Jacks is the best and if you want to see more of their work<br>
-      check out 
+      Jacks is a naturally amazing software developer 
+      and designer and if you want to see 
+      more of their work check out 
       <a href="https://j4cks.com" target="_blank" rel="noopener">j4cks.com</a>.
     </p>
-    <h3>Installed CLI Plugins</h3>
+    <h3>~Time is a human phenomenon~</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
+      <li><a href="https://jacks.media" target="_blank" rel="noopener">jacks.media</a></li>
+      <li>2021</li>
     </ul>
   </div>
 </template>
@@ -25,14 +26,12 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-.hello {
-  min-height: 100vh;
-  background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
-            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
-            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+h1 {
+  font-size: 4.4vw;
 }
 h3 {
   margin: 40px 0 0;
+  font-size: 3.6vw;
 }
 ul {
   list-style-type: none;
@@ -43,6 +42,10 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: navy;
+}
+p {
+  text-align: center;
+  font-size: 3.2vw;
 }
 </style>
