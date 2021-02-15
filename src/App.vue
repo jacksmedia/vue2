@@ -16,7 +16,7 @@ export default {
 
 <style>
 #app {
-  font-family: Consolas, Arial, sans-serif;
+  font-family: 'Limelight', cursive, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
